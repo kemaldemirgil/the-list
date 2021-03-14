@@ -1,2 +1,2 @@
-# the-list
-This list was created to organize stuff
+# The List
+This list was created to organize stuff...
