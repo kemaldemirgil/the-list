@@ -10,12 +10,13 @@ header {
     margin-right: auto;
     margin-left: auto;
     width: 40%;
+    text-align: center;
 }
 main {
     display: block;
     background-color: #ebfdd4;
     padding: 1%;
-    width: 40%;
+    width: 60vw;
     margin-right: auto;
     margin-left: auto;
     box-shadow: 3px 3px 20px #8ccca4;
